@@ -14,7 +14,6 @@
 - **Interests**: 
   - Backend Development
   - Software Development
-  - Linux System Administration
 
 ## 🌿 Currently
 - 📚 Studying at Universitas Negeri Surabaya
