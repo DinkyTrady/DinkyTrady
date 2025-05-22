@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DinkyTrady/DinkyTrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hi there! I'm DinkyTrady ✨
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+- 🎓 Currently a university student at Universitas Negeri Surabaya, Indonesia
+- 🐧 Linux enthusiast and proud NixOS user
+- 💻 Interested in Backend Development and Software Development
+
+## 🎨 Tech Stack
+- **Operating System**: NixOS 🚀
+- **Interests**: 
+  - Backend Development
+  - Software Development
+  - Linux System Administration
+
+## 🌿 Currently
+- 📚 Studying at Universitas Negeri Surabaya
+- 🔧 Working on various software development projects
+- 🌱 Learning and exploring backend technologies
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinkyTrady&show_icons=true&theme=catppuccin_mocha)](https://github.com/DinkyTrady)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinkyTrady&layout=compact&theme=catppuccin_mocha)](https://github.com/DinkyTrady)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinkyTrady&theme=catppuccin_mocha)](https://github.com/DinkyTrady)
+
+</div>
