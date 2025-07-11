@@ -28,6 +28,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinkyTrady&layout=compact&theme=catppuccin_mocha)](https://github.com/DinkyTrady)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinkyTrady&theme=catppuccin_mocha)](https://github.com/DinkyTrady)
-
 </div>
