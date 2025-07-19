@@ -10,7 +10,7 @@
 - 💻 Interested in Backend Development and Software Development
 
 ## 🎨 Tech Stack
-- **Operating System**: NixOS 🚀
+- **Operating System**: CachyOS 🚀
 - **Interests**: 
   - Backend Development
   - Software Development
