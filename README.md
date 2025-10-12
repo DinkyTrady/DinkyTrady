@@ -6,7 +6,7 @@
 
 ## 🌸 About Me
 - 🎓 Currently a university student at Universitas Negeri Surabaya, Indonesia
-- 🐧 Linux enthusiast and proud NixOS user
+- 🐧 Linux enthusiast and proud CachyOS user
 - 💻 Interested in Backend Development and Software Development
 
 ## 🎨 Tech Stack
