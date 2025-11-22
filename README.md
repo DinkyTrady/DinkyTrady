@@ -1,10 +1,7 @@
 <div align="center">
 
 # Helloo...
-
 I'm only humans after all
-
-## 📊 GitHub Stats
 
 <div align="center">
 
