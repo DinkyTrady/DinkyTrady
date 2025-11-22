@@ -1,24 +1,8 @@
 <div align="center">
 
-# ✨ Hi there! I'm DinkyTrady ✨
+# Helloo...
 
-</div>
-
-## 🌸 About Me
-- 🎓 Currently a university student at Universitas Negeri Surabaya, Indonesia
-- 🐧 Linux enthusiast and proud CachyOS user
-- 💻 Interested in Backend Development and Software Development
-
-## 🎨 Tech Stack
-- **Operating System**: CachyOS 🚀
-- **Interests**: 
-  - Backend Development
-  - Software Development
-
-## 🌿 Currently
-- 📚 Studying at Universitas Negeri Surabaya
-- 🔧 Working on various software development projects
-- 🌱 Learning and exploring backend technologies
+I'm only humans after all
 
 ## 📊 GitHub Stats
 
